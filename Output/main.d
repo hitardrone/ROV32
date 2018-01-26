@@ -15,6 +15,9 @@
 ..\output\main.o: ..\User\usart3remap\usart3.h
 ..\output\main.o: ..\User\iic\iic.h
 ..\output\main.o: ..\Sensors\ms5837\ms5837.h
+..\output\main.o: ..\Control\loop\loop.h
+..\output\main.o: ..\Sensors\ms5837\ms5837.h
 ..\output\main.o: ..\Sensors\JY901\JY901.h
 ..\output\main.o: ..\User\General_timx\tim3.h
 ..\output\main.o: ..\User\Adanved_timx\tim8.h
+..\output\main.o: ..\User\systick\systick.h

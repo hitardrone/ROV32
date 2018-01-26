@@ -14,3 +14,7 @@
 ..\output\stm32f10x_it.o: ..\User\usart1\usart1.h
 ..\output\stm32f10x_it.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdio.h
 ..\output\stm32f10x_it.o: ..\Sensors\JY901\JY901.h
+..\output\stm32f10x_it.o: ..\Control\loop\loop.h
+..\output\stm32f10x_it.o: ..\Sensors\ms5837\ms5837.h
+..\output\stm32f10x_it.o: ..\User\iic\iic.h
+..\output\stm32f10x_it.o: ..\Control\loop\loop.h

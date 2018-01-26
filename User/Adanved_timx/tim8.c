@@ -55,7 +55,7 @@ static void ADVANCE_TIM_Mode_Config(void)
 {
 	TIM_TimeBaseInitTypeDef TIM_TimeBaseStructure;
 	TIM_OCInitTypeDef  TIM_OCInitStructure;
-	TIM_BDTRInitTypeDef TIM_BDTRInitStructure;
+//	TIM_BDTRInitTypeDef TIM_BDTRInitStructure;
 	
 	RCC_APB2PeriphClockCmd(ADVANCE_TIM_CLK, ENABLE);
 	
